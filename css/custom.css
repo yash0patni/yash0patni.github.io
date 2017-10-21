@@ -1,0 +1,9 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.container .row h2 a {
+	text-decoration: none;
+}
