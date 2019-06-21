@@ -1,0 +1,19 @@
+body {
+  font-family: 'Inconsolata', monospace;
+  background-image: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
+}
+
+nav div ul li a {
+  color: black;
+}
+
+.bg-custom {
+  /*
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  */
+  padding: 20px;
+  background-image: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
+}
