@@ -3,9 +3,11 @@ body {
   background-image: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
 }
 
+/*
 nav div ul li a {
   color: black;
 }
+*/
 
 .bg-custom {
   /*
